@@ -1,0 +1,4 @@
+#+title: Readme
+
+* Objetivos
+Projeto com geração de QRCode dinamicamente, por aplicação web, com Clojure(Script).
